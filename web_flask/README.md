@@ -33,14 +33,14 @@ $ sudo pip3 install flask
 ```
 
 ## :blue_book: Authors
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
+* **Seth Asamoah** - [@BennettDixon](https://github.com/Kwame8919)
 
 ## :mag: License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BennettDixon/AirBnB_clone_v2/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Kwame8919/AirBnB_clone_v2/blob/master/LICENSE.md) file for details
 
 
 
 ## :mega: Acknowledgments
 
-* Holberton School (providing guidance)
+* Alx (providing guidance)
