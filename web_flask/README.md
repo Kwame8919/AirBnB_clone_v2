@@ -33,7 +33,7 @@ $ sudo pip3 install flask
 ```
 
 ## :blue_book: Authors
-* **Seth Asamoah** - [@BennettDixon](https://github.com/Kwame8919)
+* **Seth Asamoah** - [@kwame8919](https://github.com/Kwame8919)
 
 ## :mag: License
 
